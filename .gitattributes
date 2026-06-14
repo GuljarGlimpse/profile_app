@@ -1,0 +1,10 @@
+# Flutter auto-generates the platform "runner" folders below (Android, iOS,
+# desktop, web). They are boilerplate created by `flutter create`, not
+# hand-written app code. Mark them as vendored so GitHub's language stats
+# reflect the actual Flutter/Dart source in lib/.
+android/**    linguist-vendored
+ios/**        linguist-vendored
+linux/**      linguist-vendored
+macos/**      linguist-vendored
+windows/**    linguist-vendored
+web/**        linguist-vendored
